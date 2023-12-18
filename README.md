@@ -1,4 +1,4 @@
 # Universidad
 
-> \_[!NOTE]
+> _[!NOTE]_
 > Archivos de algunos ciclos
